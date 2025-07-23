@@ -1,9 +1,9 @@
 package Package1;
 
-class MyClass {
+class MyClass1 {
 	//class body
 
-	static int a= 120;
+	static int a= 10;
 	static int b = 20;
 	static int z = a+b;
 	
